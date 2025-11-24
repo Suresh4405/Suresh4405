@@ -1,40 +1,68 @@
-### Hi 👋, I'm Suresh
+<!-- Header Title -->
+<h1 align="left">Hi 👋, I'm Suresh</h1>
+<h3 align="left">💻 Full Stack Web Developer</h3>
 
-## 💼 Full Stack Web Developer
-
-I build fast, scalable and user-focused web applications with clean and efficient code.  
-I love converting business ideas into modern digital products.  
-Focused on performance, smooth UI and secure backend development.
-
----
-
-### 🌐 Connect With Me
-
-<a href="https://sureshcodes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sureshm2002" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Suresh4405" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:m.suresh4405@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Typing Animation -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00E676&width=435&lines=Building+Fast+Scalable+Web+Apps;Creating+Smooth+UI%2FUX+Experiences;Transforming+Ideas+Into+Real+Products" alt="Typing Animation"/>
+</p>
 
 ---
 
-### 🛠️ Skills & Tools
+### 👨‍💻 About Me  
+I love building applications that solve real problems through clean, scalable, and efficient code.  
+I focus on modern UI, secure backend logic, performance optimization & cloud workflows.  
+Always growing, always improving — driven by curiosity and creativity. 🚀  
+
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="https://sureshcodes.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:m.suresh4405@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
 
 #### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,angular,tailwind,html,css" />
+</p>
 
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-#### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-#### ☁ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github" />
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions" />
+</p>
 
-#### 🔧 Additional Tools
-<img src="https://skillicons.dev/icons?i=linux,postman,cpp,arduino" />
+#### 🔧 Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,seo,cpp,arduino" />
+</p>
 
 ---
 
-### 🎯 Fun Fact
-✨ I turn ideas into fully working digital products!
+### 🎯 Fun Fact  
+💪 I turn ideas into fully working digital products!
+
+---
+
+⭐ Let’s connect & collaborate — I’m always open for exciting opportunities!
