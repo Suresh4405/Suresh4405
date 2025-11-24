@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I love building applications that solve real problems through **clean, scalable, and efficient code**.  
 I focus on modern UI, secure backend logic, performance optimization & cloud workflows.  
 Always growing, always improving — driven by curiosity and creativity.
@@ -15,18 +15,18 @@ Always growing, always improving — driven by curiosity and creativity.
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="left" style="display:flex; gap:20px;">
   <a href="https://sureshcodes.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" style="border-radius:50%; margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" style="border-radius:50%;"/>
   </a>
   <a href="https://www.linkedin.com/in/suresh-k-5aab07257" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" style="border-radius:50%; margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" style="border-radius:50%;"/>
   </a>
   <a href="mailto:sureshk5491@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" style="border-radius:50%; margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" style="border-radius:50%;"/>
   </a>
   <a href="https://github.com/Suresh2724" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" width="50" style="border-radius:50%; margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50" width="50" style="border-radius:50%;"/>
   </a>
 </p>
 
