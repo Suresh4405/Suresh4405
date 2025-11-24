@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋, I'm Suresh</h2>
+
 <h3 align="left">💻 Full Stack Web Developer 🚀</h3>
 
 <p align="left">
@@ -7,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me  
+### 🚀 About Me  
 I love building applications that solve real problems through **clean, scalable, and efficient code**.  
 I focus on modern UI, secure backend logic, performance optimization & cloud workflows.  
 Always growing, always improving — driven by curiosity and creativity.
@@ -15,25 +16,25 @@ Always growing, always improving — driven by curiosity and creativity.
 ---
 
 ### 🌐 Connect With Me
-<p align="left" style="display:flex; gap:25px; align-items:center;">
+<p align="left" style="display:flex; gap:25px; align-items:center; margin-top:10px;">
   <a href="https://sureshcodes.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" style="border-radius:50%;"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="55" width="55" style="border-radius:50%;"/>
   </a>
   <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" style="border-radius:50%;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55" style="border-radius:50%;"/>
   </a>
   <a href="mailto:m.suresh4405@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" style="border-radius:50%;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" width="55" style="border-radius:50%;"/>
   </a>
   <a href="https://github.com/Suresh4405" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" width="50" style="border-radius:50%;"/>
+    <img src="https://skillicons.dev/icons?i=github" height="55" width="55" style="border-radius:50%;"/>
   </a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
-<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center; margin-top:10px;">
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45"/></a>
@@ -65,6 +66,4 @@ Always growing, always improving — driven by curiosity and creativity.
 - Strengthening DevOps + Microservices  
 - Creating modern UI/UX experiences  
 
----
 
-⭐ If you like my work — **Consider a follow!**
