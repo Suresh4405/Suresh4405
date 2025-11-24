@@ -1,68 +1,72 @@
-<!-- Header Title -->
-<h1 align="left">Hi 👋, I'm Suresh</h1>
-<h3 align="left">💻 Full Stack Web Developer</h3>
+<!-- Profile Header -->
+<h2 align="left">Hi 👋, I'm Suresh</h2>
+<h3 align="left">Full Stack Web Developer</h3>
 
 <!-- Typing Animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00E676&width=435&lines=Building+Fast+Scalable+Web+Apps;Creating+Smooth+UI%2FUX+Experiences;Transforming+Ideas+Into+Real+Products" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Delivering+Smooth+%26+Modern+UI+Experiences;High-Performance+APIs+%26+Database+Design;Optimized+for+Speed,+SEO+%26+Business+Growth;&font=Fira%20Code&size=18&duration=4000&pause=1000&color=36BCF7&width=520&height=50" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-I love building applications that solve real problems through clean, scalable, and efficient code.  
-I focus on modern UI, secure backend logic, performance optimization & cloud workflows.  
-Always growing, always improving — driven by curiosity and creativity. 🚀  
+### 🧑‍💻 About Me  
+I love building applications that solve real problems through clean, scalable, and efficient code.
+I focus on modern UI, secure backend logic, performance optimization & cloud workflows.
+Always growing, always improving — driven by curiosity and creativity.
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://sureshcodes.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/suresh-k-5aab07257" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:sureshk5491@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="mailto:m.suresh4405@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Suresh2724" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### 🎨 Frontend
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,angular,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" height="45"/>
 </p>
 
-#### ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="30"/>
 </p>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="45"/>
 </p>
 
-#### ☁️ DevOps & Cloud
+### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions" />
-</p>
-
-#### 🔧 Other Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,seo,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,postman,vscode" height="45"/>
+  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" height="30"/>
 </p>
 
 ---
 
-### 🎯 Fun Fact  
-💪 I turn ideas into fully working digital products!
+### 🎯 Fun Fact
+💡 I turn ideas into working digital products that users **love**.
 
 ---
 
-⭐ Let’s connect & collaborate — I’m always open for exciting opportunities!
+### 🚀 Current Focus
+- Building full-scale digital products  
+- Strengthening DevOps + Microservices  
+- Creating modern UI/UX experiences  
+
+---
+
+⭐ If you like my work — **Consider a follow!**  
