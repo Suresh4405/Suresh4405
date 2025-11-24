@@ -7,7 +7,7 @@
 
 ---
 
-### About Me  
+### 🧑‍💻 About Me  
 I love building applications that solve real problems through **clean, scalable, and efficient code**.  
 I focus on modern UI, secure backend logic, performance optimization & cloud workflows.  
 Always growing, always improving — driven by curiosity and creativity.
@@ -15,17 +15,17 @@ Always growing, always improving — driven by curiosity and creativity.
 ---
 
 ### 🌐 Connect With Me
-<p align="left" style="display:flex; gap:20px;">
+<p align="left" style="display:flex; gap:25px; align-items:center;">
   <a href="https://sureshcodes.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" style="border-radius:50%;"/>
   </a>
-  <a href="https://www.linkedin.com/in/suresh-k-5aab07257" target="_blank">
+  <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" style="border-radius:50%;"/>
   </a>
-  <a href="mailto:sureshk5491@gmail.com" target="_blank">
+  <a href="mailto:m.suresh4405@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" style="border-radius:50%;"/>
   </a>
-  <a href="https://github.com/Suresh2724" target="_blank">
+  <a href="https://github.com/Suresh4405" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" width="50" style="border-radius:50%;"/>
   </a>
 </p>
@@ -33,8 +33,24 @@ Always growing, always improving — driven by curiosity and creativity.
 ---
 
 ### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,express,ts,mongodb,mysql,aws,docker,postman,vscode,microservices" height="45"/>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=microservices" height="45"/></a>
 </p>
 
 ---
