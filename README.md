@@ -14,7 +14,6 @@
 | ⚡ API Response Time | (Redis + SQL optimization) |
 | 📈 Page Load Speed | **58% faster** (image optimization + code splitting) |
 | 🎯 Lighthouse Score | **90+** across Core Web Vitals |
-| 🚦 Uptime | **99.2%** handling 10,000+ daily requests |
 | 👥 Users Supported | **500+ concurrent** users |
 | 📈 Organic Traffic | **Increased by 47%** (SEO) |
 
