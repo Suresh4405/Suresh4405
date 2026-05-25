@@ -51,7 +51,7 @@ I build **scalable, high-performance web applications** that solve real business
 
 <p align="left" style="display:flex; gap:25px; align-items:center;">
   <a href="https://sureshcodes.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" style="border-radius:50%;"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="55" width="55" style="border-radius:50%;"/>
   </a>
   <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" style="border-radius:50%;"/>
@@ -108,7 +108,6 @@ I build **scalable, high-performance web applications** that solve real business
 - 🌱 Strengthening DevOps + Kubernetes + Microservices
 - 💡 Creating real-time collaboration platforms
 
----
 
 ### 📫 Open To
 
