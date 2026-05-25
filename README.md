@@ -32,18 +32,6 @@ I build **scalable, high-performance web applications** that solve real business
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Tech Stack | Impact |
-|---------|------------|--------|
-| **WebSocket Collaboration Studio** | React, Socket.IO, Redis, Docker | Real-time sync for 500+ users |
-| **TallySync Dashboard** | React, Node.js, MySQL, Redis | faster data retrieval |
-
-
-> 📌 **Check out my pinned repositories below for live demos and code!**
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left" style="display:flex; gap:25px; align-items:center;">
@@ -90,14 +78,7 @@ I build **scalable, high-performance web applications** that solve real business
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh4405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh4405&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 🚀 Current Focus
 
