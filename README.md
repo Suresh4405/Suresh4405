@@ -2,7 +2,7 @@
 <h3 align="left">🚀 Full Stack Developer | React.js • Next.js • Node.js • TypeScript • AWS</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=95%2B+Lighthouse+Scores;68%25+Faster+API+Responses;10%2C000%2B+Daily+Requests+Handled;99.2%25+Uptime+%7C+50%2B+Customers&font=Fira%20Code&size=18&duration=4000&pause=1000&color=36BCF7&width=580&height=50" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+what+others+dream;Senior-level+skills+•+Junior-level+ego;Production-ready+•+Tested+•+Deployed&font=Fira%20Code&size=18&duration=6000&pause=2000&color=00FF88&width=580&height=50" />
 </p>
 
 ---
@@ -11,13 +11,12 @@
 
 | Metric | Result |
 |--------|--------|
-| ⚡ API Response Time | **Reduced by 68%** (Redis + SQL optimization) |
+| ⚡ API Response Time | (Redis + SQL optimization) |
 | 📈 Page Load Speed | **58% faster** (image optimization + code splitting) |
-| 🎯 Lighthouse Score | **95+** across Core Web Vitals |
+| 🎯 Lighthouse Score | **90+** across Core Web Vitals |
 | 🚦 Uptime | **99.2%** handling 10,000+ daily requests |
 | 👥 Users Supported | **500+ concurrent** users |
-| 📈 Organic Traffic | **Increased by 47%** (Next.js SSR + SEO) |
-| ⏱️ Dev Efficiency | **40% faster** (reusable component library) |
+| 📈 Organic Traffic | **Increased by 47%** (SEO) |
 
 ---
 
@@ -25,7 +24,6 @@
 
 I build **scalable, high-performance web applications** that solve real business problems.
 
-- ✅ Enterprise React.js & Next.js applications deployed to **50+ customers**
 - ✅ REST & GraphQL APIs with JWT, OAuth 2.0, and RBAC
 - ✅ Real-time platforms handling **500+ concurrent users**
 - ✅ AWS cloud deployment (EC2, S3) with Docker containerization
@@ -39,9 +37,8 @@ I build **scalable, high-performance web applications** that solve real business
 | Project | Tech Stack | Impact |
 |---------|------------|--------|
 | **WebSocket Collaboration Studio** | React, Socket.IO, Redis, Docker | Real-time sync for 500+ users |
-| **TallySync Dashboard** | React, Node.js, MySQL, Redis | 65% faster data retrieval |
-| **Micro-frontend Platform** | Next.js, Module Federation | 5+ teams deploying independently |
-| **AI Camera Selector** | React, Node.js, OpenAI API | Sub-500ms response time |
+| **TallySync Dashboard** | React, Node.js, MySQL, Redis | faster data retrieval |
+
 
 > 📌 **Check out my pinned repositories below for live demos and code!**
 
@@ -105,7 +102,7 @@ I build **scalable, high-performance web applications** that solve real business
 ### 🚀 Current Focus
 
 - 🔭 Building full-scale digital products with micro-frontend architecture
-- 🌱 Strengthening DevOps + Kubernetes + Microservices
+- 🌱 Strengthening DevOps + Microservices
 - 💡 Creating real-time collaboration platforms
 
 
