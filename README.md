@@ -33,6 +33,8 @@ I build **scalable, high-performance web applications** that solve real business
 
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <p align="left" style="display:flex; gap:25px; align-items:center;">
   <a href="https://sureshcodes.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="55" width="55" style="border-radius:50%;"/>
@@ -45,6 +47,9 @@ I build **scalable, high-performance web applications** that solve real business
   </a>
   <a href="https://github.com/Suresh4405" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" width="50" style="border-radius:50%;"/>
+  </a>
+  <a href="https://dev.to/sureshcodes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="50" width="50" style="border-radius:50%;"/>
   </a>
 </p>
 
@@ -91,3 +96,4 @@ I build **scalable, high-performance web applications** that solve real business
 **Full Stack Developer Roles** | **Freelance** | **Contract** | **Remote**
 
 > 💼 Portfolio: [sureshcodes.vercel.app](https://sureshcodes.vercel.app)
+> ✍️ Blog: [dev.to/sureshcodes](https://dev.to/sureshcodes)
