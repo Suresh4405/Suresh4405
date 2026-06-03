@@ -78,7 +78,6 @@ I build **scalable, high-performance web applications** that solve real business
 
 **Full Stack Developer Roles** | **Freelance** | **Contract** | **Remote**
 
-| | |
-|---|---|
-| 💼 Portfolio | [sureshcodes.vercel.app](https://sureshcodes.vercel.app) |
-| ✍️ Blog | [dev.to/sureshcodes](https://dev.to/sureshcodes) |
+💼 Portfolio: [sureshcodes.vercel.app](https://sureshcodes.vercel.app)
+
+✍️ Blog: [dev.to/sureshcodes](https://dev.to/sureshcodes)
