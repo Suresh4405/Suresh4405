@@ -2,7 +2,7 @@
 <h3 align="left">🚀 Full Stack Developer | React.js • Next.js • Node.js • TypeScript • AWS</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+what+others+dream;Senior-level+skills+•+Junior-level+ego;Production-ready+•+Tested+•+Deployed&font=Fira%20Code&size=18&duration=6000&pause=2000&color=00FF88&width=580&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+what+others+dream;Full-stack%2C+from+idea+to+deployment;Production-ready+•+Tested+•+Shipped&font=Fira%20Code&size=18&duration=6000&pause=2000&color=00FF88&width=580&height=50" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 | Metric | Result |
 |--------|--------|
-| ⚡ API Response Time | (Redis + SQL optimization) |
+| ⚡ API Response Time | **68% faster** (Redis + SQL optimization) |
 | 📈 Page Load Speed | **58% faster** (image optimization + code splitting) |
-| 🎯 Lighthouse Score | **90+** across Core Web Vitals |
+| 🎯 Lighthouse Score | **95+** across Core Web Vitals |
 | 👥 Users Supported | **500+ concurrent** users |
 | 📈 Organic Traffic | **Increased by 47%** (SEO) |
 
@@ -65,14 +65,11 @@ I build **scalable, high-performance web applications** that solve real business
 
 ---
 
-
-
 ### 🚀 Current Focus
 
 - 🔭 Building full-scale digital products with micro-frontend architecture
 - 🌱 Strengthening DevOps + Microservices
 - 💡 Creating real-time collaboration platforms
-
 
 ### 📫 Open To
 
