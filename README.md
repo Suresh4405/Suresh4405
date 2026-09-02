@@ -1,80 +1,75 @@
 <h2 align="left">Hi 👋, I'm Suresh</h2>
-<h3 align="left">🚀 Full Stack Developer | React.js • Next.js • Node.js • TypeScript • AWS</h3>
-
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+what+others+dream;Full-stack%2C+from+idea+to+deployment;Production-ready+•+Tested+•+Shipped&font=Fira%20Code&size=18&duration=6000&pause=2000&color=00FF88&width=580&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Responsive+UI+with+modern+frameworks;Production-grade+APIs+%26+cloud+deployment;SEO+%26+performance+optimization&font=Fira%20Code&size=18&duration=4000&pause=1000&color=00FF88&width=600&height=50" />
 </p>
+<h3 align="left">Full Stack Developer | React.js • Next.js • Node.js • TypeScript • AWS</h3>
+
+## About Me
+
+I build **scalable, high-performance web applications** from concept to deployment. With expertise across the full stack — React.js frontends, Node.js backends, and AWS infrastructure — I deliver production-ready solutions that are clean, tested, and optimized.
+
+**What I bring:**
+- Full-stack architecture and deployment
+- Performance optimization (68% faster APIs, 80+ Lighthouse scores)
+- Cloud infrastructure (AWS, Docker, CI/CD)
+- Real-time applications with Socket.IO
 
 ---
 
-### 📊 Key Achievements
+## Technical Skills
+
+### Frontend
+`React.js` `Next.js` `TypeScript` `JavaScript` `Redux Toolkit` `Tailwind CSS` `Material-UI` `HTML5` `CSS3`
+
+### Backend
+`Node.js` `Express.js` `REST APIs` `GraphQL` `Socket.IO` `JWT` `OAuth 2.0` `RBAC`
+
+### Database
+`MongoDB` `MySQL` `SQL Server` `Redis` `Query Optimization` `Database Indexing`
+
+### Cloud & DevOps
+`AWS (EC2, S3)` `Docker` `GitHub Actions` `CI/CD` `Vercel` `Containerization`
+
+### Testing & Tools
+`Jest` `React Testing Library` `Playwright` `Postman` `Git` `Jira` `Performance Monitoring`
+
+---
+
+## Key Achievements
 
 | Metric | Result |
 |--------|--------|
-| ⚡ API Response Time | **68% faster** (Redis + SQL optimization) |
+| ⚡ API Response Time | **68% faster** (Redis caching + SQL optimization) |
 | 📈 Page Load Speed | **58% faster** (image optimization + code splitting) |
-| 🎯 Lighthouse Score | **95+** across Core Web Vitals |
-| 👥 Users Supported | **500+ concurrent** users |
-| 📈 Organic Traffic | **Increased by 47%** (SEO) |
+| 🎯 Lighthouse Score | **80+** across Core Web Vitals |
+| 👥 Concurrent Users | **500+** supported |
+| 📈 Organic Traffic | **47% increase** (SEO optimization) |
 
 ---
 
-### 🧑‍💻 About Me
+## Current Focus
 
-I build **scalable, high-performance web applications** that solve real business problems.
-
-- ✅ REST & GraphQL APIs with JWT, OAuth 2.0, and RBAC
-- ✅ Real-time platforms handling **500+ concurrent users**
-- ✅ AWS cloud deployment (EC2, S3) with Docker containerization
-
-> *"Clean code, modern UI, secure backend, and performance first."*
+- Building full-scale digital products with micro-frontend architecture
+- Strengthening DevOps and Microservices practices
+- Creating real-time collaboration platforms
+- Expanding automated testing with Playwright
 
 ---
 
-### 🌐 Connect With Me
+## Open To
 
-<p align="left">
-  <a href="https://sureshcodes.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sureshm2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:suresh.m.webdev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Suresh4405" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/sureshcodes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" height="40"/>
-  </a>
-</p>
+**Full Stack Developer Roles** · **Freelance** · **Contract** · **Remote**
 
 ---
 
-### 🛠️ Tech Stack
+## Connect With Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,graphql,mongodb,mysql,redis,aws,docker,githubactions,jest,postman,vscode" />
-</p>
+- Portfolio: [sureshcodes.vercel.app](https://sureshcodes.vercel.app)
+- LinkedIn: [linkedin.com/in/sureshm2002](https://linkedin.com/in/sureshm2002)
+- GitHub: [github.com/Suresh4405](https://github.com/Suresh4405)
+- Blog: [dev.to/sureshcodes](https://dev.to/sureshcodes)
+- Email: suresh.m.webdev@gmail.com
 
 ---
 
-### 🚀 Current Focus
-
-- 🔭 Building full-scale digital products with micro-frontend architecture
-- 🌱 Strengthening DevOps + Microservices
-- 💡 Creating real-time collaboration platforms
-
-### 📫 Open To
-
-**Full Stack Developer Roles** | **Freelance** | **Contract** | **Remote**
-
-💼 Portfolio: [sureshcodes.vercel.app](https://sureshcodes.vercel.app)
-
-✍️ Blog: [dev.to/sureshcodes](https://dev.to/sureshcodes)
+*Thanks for visiting! ⭐*
