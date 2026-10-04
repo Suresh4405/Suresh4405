@@ -20,15 +20,15 @@ I'm a **Full Stack Developer with 2+ years of experience** building SaaS and web
 
 I work across the stack — from responsive interfaces and API architecture to databases, authentication, caching, third-party integrations, testing, and cloud deployment.
 
-- 🔹 Built and maintained **8+ full-stack web applications**
-- 🔹 Developed secure **REST & GraphQL APIs** with JWT, OAuth 2.0, and RBAC
-- 🔹 Reduced API response time by **68%** using Redis caching and SQL optimization
-- 🔹 Achieved **80+ Lighthouse scores** through performance optimization
-- 🔹 Improved organic traffic by **47%** through SEO and web performance work
-- 🔹 Supported **500+ concurrent users** with optimized backend services
-- 🔹 Built AI-powered features using the **OpenAI API**
-- 🔹 Modernized legacy **C# ASP.NET applications to Node.js/Express.js**
-- 🔹 Deploy applications using **AWS, Docker, and GitHub Actions CI/CD**
+-  Built and maintained **8+ full-stack web applications**
+-  Developed secure **REST & GraphQL APIs** with JWT, OAuth 2.0, and RBAC
+-  Reduced API response time by **68%** using Redis caching and SQL optimization
+-  Achieved **80+ Lighthouse scores** through performance optimization
+-  Improved organic traffic by **47%** through SEO and web performance work
+-  Supported **500+ concurrent users** with optimized backend services
+-  Built AI-powered features using the **OpenAI API**
+-  Modernized legacy **C# ASP.NET applications to Node.js/Express.js**
+-  Deploy applications using **AWS, Docker, and GitHub Actions CI/CD**
 
 ---
 
